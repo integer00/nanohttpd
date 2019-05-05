@@ -90,7 +90,7 @@ import org.nanohttpd.util.IHandler;
  * <li>Released as open source, Modified BSD licence</li>
  * <li>No fixed config files, logging, authorization etc. (Implement yourself if
  * you need them.)</li>
- * <li>Supports parameter parsing of GET and POST methods (+ rudimentary PUT
+ * <li>Supports parameter parsing of GET and POST Methods (+ rudimentary PUT
  * support in 1.25)</li>
  * <li>Supports both dynamic content and file serving</li>
  * <li>Supports file upload (since version 1.2, 2010)</li>
